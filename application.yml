@@ -6,11 +6,11 @@ spring:
 spring:
   profiles: dev     #开发环境
   application: 
-    name: myspringcloud-config-dev
+    name: myspringcloud-config
 ---
 spring:
   profiles: test   #测试环境
   application: 
-    name: myspringcloud-config-test
+    name: myspringcloud-config
 #  请保存为UTF-8格式llllllwwwwddd
 #  请保存为UTF-8格式llllllwwww888
